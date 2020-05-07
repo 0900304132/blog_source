@@ -2,10 +2,10 @@
 title: depoly by git
 date: 2020-04-30 16:45:51
 tags:
-  - [git]
-  - [hexo]
+  - git
+  - hexo
 category:
-  - [前端]
+  - 前端
 ---
 
 * 玩了一会  

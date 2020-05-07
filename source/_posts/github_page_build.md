@@ -3,13 +3,13 @@ title: 使用GitHub Page 的问题
 date: 2020-04-30 15:55:22
 tags: 
 
-  + [GitHub]
-  + [hexo] 
-  + [travisCI]
+  - GitHub
+  - hexo 
+  - travisCI
 
 categories: 
 
-  + 前端
+  - 前端
 
 comments: false
 ---
@@ -32,4 +32,5 @@ comments: false
 * 算了 自己生成. 手动push
 
 ---
+
 * 第一篇文章end
