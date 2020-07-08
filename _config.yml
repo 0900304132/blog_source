@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: 0900304132.github.io
+url: https://0900304132.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -38,7 +38,7 @@ titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
-  exclude: ""
+  exclude: ''
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -48,7 +48,7 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace: ""
+  tab_replace: ''
   wrap: true
   hljs: false
 
@@ -95,6 +95,6 @@ theme: stun
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: "git"
-  repo: "https://github.com/0900304132/0900304132.github.io.git"
-  branch: "master"
+  type: 'git'
+  repo: 'https://github.com/0900304132/0900304132.github.io.git'
+  branch: 'master'
