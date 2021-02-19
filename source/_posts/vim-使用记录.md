@@ -2,6 +2,7 @@
 title: vim 使用记录
 date: 2021-02-18 15:14:56
 tags: [vim]
+category: [开发环境]
 ---
 
 1. ## Caps 映射成 Esc
